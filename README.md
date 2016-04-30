@@ -11,7 +11,7 @@ The only real option, outside of registering it with
 your system (Open the workflow on OS X and hit save)
 is the environment parameter:
 
-``bash
+```bash
 export RECLINEWIDTH=<XXX>
 ```
 
