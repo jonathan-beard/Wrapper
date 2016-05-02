@@ -17,7 +17,7 @@ export RECLINEWIDTH=<XXX>
 
 which sets the number of columns per line without
 having to change the automator script over and over.
-You might also want to set a quick key. I'm using
-opt-c which seems to work well.
+You might also want to set a quick key via System
+Preferneces -> Keyboard -> Shorcuts.
 
 Enjoy!
